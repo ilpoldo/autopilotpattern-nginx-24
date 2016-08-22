@@ -1,0 +1,606 @@
+2016/08/22 17:55:17 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s].Start
+2016/08/22 17:55:17 ==> Starting Consul agent...
+2016/08/22 17:55:17 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:17 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:17 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:17 ==> Starting Consul agent...
+2016/08/22 17:55:17 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:17 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:17 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:17 ==> Starting Consul agent...
+2016/08/22 17:55:17 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:17 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:17 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:17 ==> Starting Consul agent...
+2016/08/22 17:55:17 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:17 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:18 ==> Starting Consul agent...
+2016/08/22 17:55:18 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:18 ==> Starting Consul agent...
+2016/08/22 17:55:18 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:18 ==> Starting Consul agent...
+2016/08/22 17:55:18 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:18 ==> Starting Consul agent...
+2016/08/22 17:55:18 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:18 ==> Starting Consul agent...
+2016/08/22 17:55:18 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:18 ==> Starting Consul agent...
+2016/08/22 17:55:18 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:18 ==> Starting Consul agent...
+2016/08/22 17:55:18 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:18 ==> Starting Consul agent...
+2016/08/22 17:55:18 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:18 ==> Starting Consul agent...
+2016/08/22 17:55:18 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:18 ==> Starting Consul agent...
+2016/08/22 17:55:18 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:18 ==> Starting Consul agent...
+2016/08/22 17:55:18 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:18 ==> Starting Consul agent...
+2016/08/22 17:55:18 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:18 ==> Starting Consul agent...
+2016/08/22 17:55:18 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:18 ==> Starting Consul agent...
+2016/08/22 17:55:18 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:18 ==> Starting Consul agent...
+2016/08/22 17:55:18 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:18 ==> Starting Consul agent...
+2016/08/22 17:55:18 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:18 ==> Starting Consul agent...
+2016/08/22 17:55:18 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:18 ==> Starting Consul agent...
+2016/08/22 17:55:18 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:18 ==> Starting Consul agent...
+2016/08/22 17:55:18 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:18 ==> Starting Consul agent...
+2016/08/22 17:55:18 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:18 ==> Starting Consul agent...
+2016/08/22 17:55:18 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:18 ==> Starting Consul agent...
+2016/08/22 17:55:18 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:18 ==> Starting Consul agent...
+2016/08/22 17:55:18 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:18 ==> Starting Consul agent...
+2016/08/22 17:55:18 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:18 ==> Starting Consul agent...
+2016/08/22 17:55:18 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:18 ==> Starting Consul agent...
+2016/08/22 17:55:18 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:18 ==> Starting Consul agent...
+2016/08/22 17:55:18 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:18 ==> Starting Consul agent...
+2016/08/22 17:55:18 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:18 ==> Starting Consul agent...
+2016/08/22 17:55:18 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:18 ==> Starting Consul agent...
+2016/08/22 17:55:18 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:18 ==> Starting Consul agent...
+2016/08/22 17:55:18 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:18 ==> Starting Consul agent...
+2016/08/22 17:55:18 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:18 ==> Starting Consul agent...
+2016/08/22 17:55:18 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:18 ==> Starting Consul agent...
+2016/08/22 17:55:18 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:18 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:19 ==> Starting Consul agent...
+2016/08/22 17:55:19 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:19 ==> Starting Consul agent...
+2016/08/22 17:55:19 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:19 ==> Starting Consul agent...
+2016/08/22 17:55:19 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:19 ==> Starting Consul agent...
+2016/08/22 17:55:19 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:19 ==> Starting Consul agent...
+2016/08/22 17:55:19 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:19 ==> Starting Consul agent...
+2016/08/22 17:55:19 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:19 ==> Starting Consul agent...
+2016/08/22 17:55:19 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:19 ==> Starting Consul agent...
+2016/08/22 17:55:19 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:19 ==> Starting Consul agent...
+2016/08/22 17:55:19 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:19 ==> Starting Consul agent...
+2016/08/22 17:55:19 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:19 ==> Starting Consul agent...
+2016/08/22 17:55:19 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:19 ==> Starting Consul agent...
+2016/08/22 17:55:19 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:19 ==> Starting Consul agent...
+2016/08/22 17:55:19 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:19 ==> Starting Consul agent...
+2016/08/22 17:55:19 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:19 ==> Starting Consul agent...
+2016/08/22 17:55:19 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:19 ==> Starting Consul agent...
+2016/08/22 17:55:19 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:19 ==> Starting Consul agent...
+2016/08/22 17:55:19 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:19 ==> Starting Consul agent...
+2016/08/22 17:55:19 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:19 ==> Starting Consul agent...
+2016/08/22 17:55:19 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:19 ==> Starting Consul agent...
+2016/08/22 17:55:19 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:19 ==> Starting Consul agent...
+2016/08/22 17:55:19 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:19 ==> Starting Consul agent...
+2016/08/22 17:55:19 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:19 ==> Starting Consul agent...
+2016/08/22 17:55:19 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:19 ==> Starting Consul agent...
+2016/08/22 17:55:19 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:19 ==> Starting Consul agent...
+2016/08/22 17:55:19 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:19 ==> Starting Consul agent...
+2016/08/22 17:55:19 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:19 ==> Starting Consul agent...
+2016/08/22 17:55:19 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:19 ==> Starting Consul agent...
+2016/08/22 17:55:19 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:19 ==> Starting Consul agent...
+2016/08/22 17:55:19 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:19 ==> Starting Consul agent...
+2016/08/22 17:55:19 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:19 ==> Starting Consul agent...
+2016/08/22 17:55:19 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:19 ==> Starting Consul agent...
+2016/08/22 17:55:19 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:19 ==> Starting Consul agent...
+2016/08/22 17:55:19 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:19 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:19 ==> Starting Consul agent...
+2016/08/22 17:55:19 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+Running Example app on port 4000
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:20 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:20 ==> Starting Consul agent...
+2016/08/22 17:55:20 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:21 ==> Starting Consul agent...
+2016/08/22 17:55:21 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:21 Put http://localhost:8500/v1/agent/check/pass/example-67da2af42cba?note=ok: dial tcp [::1]:8500: getsockopt: connection refused
+Service not registered, registering...
+2016/08/22 17:55:21 Service registration failed: Put http://localhost:8500/v1/agent/service/register: dial tcp [::1]:8500: getsockopt: connection refused
+2016/08/22 17:55:21 Check registration failed: Put http://localhost:8500/v1/agent/check/register: dial tcp [::1]:8500: getsockopt: connection refused
+2016/08/22 17:55:21 ==> Starting Consul agent...
+2016/08/22 17:55:21 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:21 ==> Starting Consul agent...
+2016/08/22 17:55:21 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:21 ==> Starting Consul agent...
+2016/08/22 17:55:21 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:21 ==> Starting Consul agent...
+2016/08/22 17:55:21 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:21 ==> Starting Consul agent...
+2016/08/22 17:55:21 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:21 ==> Starting Consul agent...
+2016/08/22 17:55:21 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:21 ==> Starting Consul agent...
+2016/08/22 17:55:21 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:21 ==> Starting Consul agent...
+2016/08/22 17:55:21 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:21 ==> Starting Consul agent...
+2016/08/22 17:55:21 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:21 ==> Starting Consul agent...
+2016/08/22 17:55:21 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:21 ==> Starting Consul agent...
+2016/08/22 17:55:21 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:21 ==> Starting Consul agent...
+2016/08/22 17:55:21 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:21 ==> Starting Consul agent...
+2016/08/22 17:55:21 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:21 ==> Starting Consul agent...
+2016/08/22 17:55:21 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:21 ==> Starting Consul agent...
+2016/08/22 17:55:21 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:21 ==> Starting Consul agent...
+2016/08/22 17:55:21 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:21 ==> Starting Consul agent...
+2016/08/22 17:55:21 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:21 ==> Starting Consul agent...
+2016/08/22 17:55:21 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:21 ==> Starting Consul agent...
+2016/08/22 17:55:21 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:21 ==> Starting Consul agent...
+2016/08/22 17:55:21 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:21 ==> Starting Consul agent...
+2016/08/22 17:55:21 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:21 ==> Starting Consul agent...
+2016/08/22 17:55:21 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:21 ==> Starting Consul agent...
+2016/08/22 17:55:21 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:21 ==> Starting Consul agent...
+2016/08/22 17:55:21 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:21 ==> Starting Consul agent...
+2016/08/22 17:55:21 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited
+2016/08/22 17:55:21 ==> Starting Consul agent...
+2016/08/22 17:55:21 ==> Error starting agent: Failed to get advertise address: Multiple private IPs found. Please configure one.
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited: exit status 1
+2016/08/22 17:55:21 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s] exited

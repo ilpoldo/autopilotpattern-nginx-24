@@ -1,0 +1,66 @@
+2016/08/22 17:56:10 coprocess[/usr/local/bin/consul agent -data-dir=/data -config-dir=/config -bind  -log-level debug -rejoin -retry-join consul -retry-max 10 -retry-interval 10s].Start
+2016/08/22 17:56:10 ==> Starting Consul agent...
+2016/08/22 17:56:10 ==> Starting Consul agent RPC...
+2016/08/22 17:56:10 ==> Consul agent running!
+2016/08/22 17:56:10          Node name: 'a79e7d56a321'
+2016/08/22 17:56:10         Datacenter: 'dc1'
+2016/08/22 17:56:10             Server: false (bootstrap: false)
+2016/08/22 17:56:10        Client Addr: 127.0.0.1 (HTTP: 8500, HTTPS: -1, DNS: 8600, RPC: 8400)
+2016/08/22 17:56:10       Cluster Addr: 172.17.0.4 (LAN: 8301, WAN: 8302)
+2016/08/22 17:56:10     Gossip encrypt: false, RPC-TLS: false, TLS-Incoming: false
+2016/08/22 17:56:10              Atlas: <disabled>
+2016/08/22 17:56:10 
+2016/08/22 17:56:10 ==> Log data will now stream in as it occurs:
+2016/08/22 17:56:10 
+2016/08/22 17:56:10     2016/08/22 17:56:10 [INFO] serf: EventMemberJoin: a79e7d56a321 172.17.0.4
+2016/08/22 17:56:10     2016/08/22 17:56:10 [ERR] agent: failed to sync remote state: No known Consul servers
+2016/08/22 17:56:10     2016/08/22 17:56:10 [INFO] agent: Joining cluster...
+2016/08/22 17:56:10     2016/08/22 17:56:10 [INFO] agent: (LAN) joining: [consul]
+2016/08/22 17:56:10     2016/08/22 17:56:10 [DEBUG] memberlist: Initiating push/pull sync with: 172.17.0.2:8301
+2016/08/22 17:56:10     2016/08/22 17:56:10 [INFO] serf: EventMemberJoin: 9997227c88a2 172.17.0.3
+2016/08/22 17:56:10     2016/08/22 17:56:10 [INFO] serf: EventMemberJoin: 4ac5ac451a36 172.17.0.2
+2016/08/22 17:56:10     2016/08/22 17:56:10 [INFO] agent: (LAN) joined: 1 Err: <nil>
+2016/08/22 17:56:10     2016/08/22 17:56:10 [INFO] agent: Join completed. Synced with 1 initial agents
+2016/08/22 17:56:10     2016/08/22 17:56:10 [INFO] consul: adding server 4ac5ac451a36 (Addr: 172.17.0.2:8300) (DC: dc1)
+2016/08/22 17:56:10     2016/08/22 17:56:10 [DEBUG] memberlist: TCP connection from=172.17.0.3:38036
+2016/08/22 17:56:10     2016/08/22 17:56:10 [DEBUG] memberlist: TCP connection from=172.17.0.2:44222
+2016/08/22 17:56:10     2016/08/22 17:56:10 [DEBUG] serf: messageJoinType: 9997227c88a2
+2016/08/22 17:56:10     2016/08/22 17:56:10 [DEBUG] serf: messageJoinType: 9997227c88a2
+Running Example app on port 4000
+2016/08/22 17:56:12     2016/08/22 17:56:12 [DEBUG] serf: messageUserEventType: consul:new-leader
+2016/08/22 17:56:12     2016/08/22 17:56:12 [INFO] consul: New leader elected: 4ac5ac451a36
+2016/08/22 17:56:12     2016/08/22 17:56:12 [DEBUG] serf: messageUserEventType: consul:new-leader
+2016/08/22 17:56:12     2016/08/22 17:56:12 [DEBUG] serf: messageUserEventType: consul:new-leader
+2016/08/22 17:56:12     2016/08/22 17:56:12 [DEBUG] serf: messageUserEventType: consul:new-leader
+2016/08/22 17:56:13     2016/08/22 17:56:13 [INFO] agent: Synced node info
+2016/08/22 17:56:13     2016/08/22 17:56:13 [ERR] http: Request PUT /v1/agent/check/pass/example-a79e7d56a321?note=ok, error: CheckID does not have associated TTL from=127.0.0.1:45268
+2016/08/22 17:56:13     2016/08/22 17:56:13 [DEBUG] http: Request PUT /v1/agent/check/pass/example-a79e7d56a321?note=ok (75.219µs) from=127.0.0.1:45268
+2016/08/22 17:56:13 Unexpected response code: 500 (CheckID does not have associated TTL)
+Service not registered, registering...
+2016/08/22 17:56:13     2016/08/22 17:56:13 [INFO] agent: Synced service 'example-a79e7d56a321'
+2016/08/22 17:56:13     2016/08/22 17:56:13 [DEBUG] http: Request PUT /v1/agent/service/register (2.817077ms) from=127.0.0.1:45268
+2016/08/22 17:56:13     2016/08/22 17:56:13 [DEBUG] agent: Service 'example-a79e7d56a321' in sync
+2016/08/22 17:56:13     2016/08/22 17:56:13 [DEBUG] agent: Service 'example-a79e7d56a321' in sync
+2016/08/22 17:56:13     2016/08/22 17:56:13 [DEBUG] agent: Service 'example-a79e7d56a321' in sync
+2016/08/22 17:56:13     2016/08/22 17:56:13 [INFO] agent: Synced check 'example-a79e7d56a321'
+2016/08/22 17:56:13     2016/08/22 17:56:13 [DEBUG] http: Request PUT /v1/agent/check/register (2.315921ms) from=127.0.0.1:45268
+2016/08/22 17:56:13     2016/08/22 17:56:13 [DEBUG] agent: Service 'example-a79e7d56a321' in sync
+2016/08/22 17:56:13     2016/08/22 17:56:13 [DEBUG] agent: Check 'example-a79e7d56a321' in sync
+2016/08/22 17:56:16     2016/08/22 17:56:16 [DEBUG] agent: Check 'example-a79e7d56a321' status is now passing
+2016/08/22 17:56:16     2016/08/22 17:56:16 [DEBUG] agent: Service 'example-a79e7d56a321' in sync
+2016/08/22 17:56:16     2016/08/22 17:56:16 [INFO] agent: Synced check 'example-a79e7d56a321'
+2016/08/22 17:56:16     2016/08/22 17:56:16 [DEBUG] http: Request PUT /v1/agent/check/pass/example-a79e7d56a321?note=ok (2.774122ms) from=127.0.0.1:45268
+2016/08/22 17:56:16     2016/08/22 17:56:16 [DEBUG] agent: Service 'example-a79e7d56a321' in sync
+2016/08/22 17:56:16     2016/08/22 17:56:16 [DEBUG] agent: Check 'example-a79e7d56a321' in sync
+2016/08/22 17:56:19     2016/08/22 17:56:19 [DEBUG] agent: Check 'example-a79e7d56a321' status is now passing
+2016/08/22 17:56:19     2016/08/22 17:56:19 [DEBUG] agent: Service 'example-a79e7d56a321' in sync
+2016/08/22 17:56:19     2016/08/22 17:56:19 [DEBUG] agent: Check 'example-a79e7d56a321' in sync
+2016/08/22 17:56:19     2016/08/22 17:56:19 [DEBUG] http: Request PUT /v1/agent/check/pass/example-a79e7d56a321?note=ok (256.553µs) from=127.0.0.1:45268
+2016/08/22 17:56:22     2016/08/22 17:56:22 [DEBUG] agent: Check 'example-a79e7d56a321' status is now passing
+2016/08/22 17:56:22     2016/08/22 17:56:22 [DEBUG] agent: Service 'example-a79e7d56a321' in sync
+2016/08/22 17:56:22     2016/08/22 17:56:22 [DEBUG] agent: Check 'example-a79e7d56a321' in sync
+2016/08/22 17:56:22     2016/08/22 17:56:22 [DEBUG] http: Request PUT /v1/agent/check/pass/example-a79e7d56a321?note=ok (236.66µs) from=127.0.0.1:45268
+2016/08/22 17:56:25     2016/08/22 17:56:25 [DEBUG] agent: Check 'example-a79e7d56a321' status is now passing
+2016/08/22 17:56:25     2016/08/22 17:56:25 [DEBUG] agent: Service 'example-a79e7d56a321' in sync
+2016/08/22 17:56:25     2016/08/22 17:56:25 [DEBUG] agent: Check 'example-a79e7d56a321' in sync
+2016/08/22 17:56:25     2016/08/22 17:56:25 [DEBUG] http: Request PUT /v1/agent/check/pass/example-a79e7d56a321?note=ok (616.825µs) from=127.0.0.1:45268
