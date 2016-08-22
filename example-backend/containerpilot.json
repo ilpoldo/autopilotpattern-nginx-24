@@ -12,15 +12,7 @@
   ],
   "coprocesses": [{{ if .CONSUL_AGENT }}
     {
-      "command": ["/usr/local/bin/consul", "agent",
-                  "-data-dir=/data",
-                  "-config-dir=/config",
-                  "-bind", "{{ .CONTAINERPILOT_EXAMPLE_IP }}",
-                  "-log-level", "debug",
-                  "-rejoin",
-                  "-retry-join", "{{ .CONSUL }}",
-                  "-retry-max", "10",
-                  "-retry-interval", "10s"],
+      "command": ["/usr/local/bin/debug.sh"],
       "restarts": "unlimited"
     }{{ end }}]
 }

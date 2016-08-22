@@ -33,6 +33,7 @@ RUN export CONTAINERPILOT_CHECKSUM=ec9dbedaca9f4a7a50762f50768cbc42879c7208 \
 # add our application and configuration
 COPY example.js /opt/example/
 COPY containerpilot.json /etc
+COPY debug.sh /usr/local/bin
 
 EXPOSE 4000
 CMD [ "/usr/local/bin/containerpilot", \
